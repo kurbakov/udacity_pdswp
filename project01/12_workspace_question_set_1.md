@@ -15,7 +15,7 @@ If you are unsure what queries to generate (for e.g., what kind of query will re
 
 We want to understand more about the movies that families are watching. The following categories are considered family movies: Animation, Children, Classics, Comedy, Family and Music.
 
-<<b>
+<b>
 Create a query that lists each movie, the film category it is classified in, and the number of times it has been rented out.
 </b>
 
