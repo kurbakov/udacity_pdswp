@@ -10,8 +10,6 @@ We have also provided a set of questions that you are free to consider and inclu
 <b>
 If you are unsure what queries to generate (for e.g., what kind of query will require the use of Window Functions), we strongly recommend using questions from the question set.
 </b>
---------------------------------------------------------
-
 
 ## Question 1
 
@@ -30,7 +28,7 @@ The following table header provides a preview of what the resulting table should
 HINT: One way to solve this is to create a count of movies using aggregations, subqueries and Window functions.
 
 
-<img src="ques1a.png">
+<img src="img/ques1a.png">
 
 
 ## Question 2
@@ -43,7 +41,7 @@ The data are not very spread out to create a very fun looking solution, but you 
 
 HINT: One way to solve it requires the use of percentiles, Window functions, subqueries or temporary tables.
 
-<img src="ques2a.png">
+<img src="img/ques2a.png">
 
 
 ## Question 3
@@ -60,4 +58,4 @@ The following table header provides a preview of what your table should look lik
 
 HINT: One way to solve this question requires the use of Percentiles, Window functions and Case statements.
 
-<img src="ques3a.png">
+<img src="img/ques3a.png">

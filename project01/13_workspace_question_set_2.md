@@ -17,7 +17,7 @@ The following table header provides a preview of what your table should look lik
 
 HINT: One way to solve this query is the use of aggregations.
 
-<img src="ques4a.png">
+<img src="img/ques4a.png">
 
 
 ## Question 2
@@ -30,7 +30,7 @@ The following table header provides a preview of what your table should look lik
 
 HINT: One way to solve is to use a subquery, limit within the subquery, and use concatenation to generate the customer name.
 
-<img src="ques5a.png">
+<img src="img/ques5a.png">
 
 ## Question 3
 
